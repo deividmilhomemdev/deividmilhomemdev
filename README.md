@@ -98,17 +98,6 @@ Sou **Analista de Dados Sênior no Sicoob Crediadag**, com quase uma década no 
 
 ### 📈 Estatísticas no GitHub
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=deividmilhomemdev&show_icons=true&theme=tokyonight&bg_color=011a20&title_color=00F0D0&icon_color=D4FF3A&text_color=ffffff&border_color=00F0D0">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=deividmilhomemdev&show_icons=true&bg_color=ffffff&title_color=007a6e&icon_color=6e7600&text_color=08262e&border_color=007a6e" alt="Estatísticas do GitHub">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deividmilhomemdev&layout=compact&theme=tokyonight&bg_color=011a20&title_color=00F0D0&text_color=ffffff&border_color=00F0D0">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividmilhomemdev&layout=compact&bg_color=ffffff&title_color=007a6e&text_color=08262e&border_color=007a6e" alt="Linguagens mais usadas">
-  </picture>
-</div>
-
 ---
 
 ### 📫 Onde me encontrar
