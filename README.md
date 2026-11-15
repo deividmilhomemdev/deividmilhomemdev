@@ -22,7 +22,7 @@
 
 ---
 
-### 👋 Olá, eu sou o Deivid!
+### 👋 Olá, eu sou o Deivid Milhomem!
 
 Sou **Analista de Dados Sênior no Sicoob Crediadag**, com quase uma década no ecossistema Sicoob unindo **Business Intelligence**, automação em Python e visão de negócio. Sou formado em Administração, tenho 5 pós-graduações em dados, gestão e finanças e estou cursando **Análise e Desenvolvimento de Sistemas na PUC Goiás**.
 
