@@ -91,7 +91,7 @@ Sou **Analista de Dados Sênior no Sicoob Crediadag**, com quase uma década no 
 
 **Certificações e reconhecimentos**
 - 🏅 **CEA** (ANBIMA) e **CPC-S100** (Sicoob/FGV)
-- 🏆 **Autor, livro CollabCoop (Top 20 Nacional):** "Desafios da Sucessão e Lideranças Estratégicas nas Cooperativas de Crédito"
+- 🏆 **CoAutor, livro CollabCoop (Top 20 Nacional):** "Desafios da Sucessão e Lideranças Estratégicas nas Cooperativas de Crédito"
 - 🥇 **Vencedor do concurso cultural da OCB** entre jovens cooperativistas (14º CBC, 2019)
 
 ---
@@ -139,7 +139,7 @@ I'm a **Senior Data Analyst at Sicoob Crediadag**, with almost a decade in the S
 - 🔄 **Hybrid NoSQL/SQL Pipelines** (Python, Pandas, Firestore, SQLAlchemy): automated extraction, cleaning and consolidation for BI.
 
 **Recognition**
-- 🏆 Author, CollabCoop book, National Top 20: "Succession Challenges and Strategic Leadership in Credit Cooperatives" (original title in Portuguese)
+- 🏆 CoAuthor, CollabCoop book, National Top 20: "Succession Challenges and Strategic Leadership in Credit Cooperatives" (original title in Portuguese)
 - 🥇 Winner, OCB cultural contest among young cooperative members (14th CBC, 2019)
 - 🏅 Certifications: CEA (ANBIMA) and CPC-S100 (Sicoob/FGV)
 
