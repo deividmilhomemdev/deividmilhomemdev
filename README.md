@@ -96,12 +96,9 @@ Sou **Analista de Dados Sênior no Sicoob Crediadag**, com quase uma década no 
 
 ---
 
-### 📈 Estatísticas no GitHub
-
----
-
 ### 📫 Onde me encontrar
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-011a20?style=for-the-badge&logo=netlify&logoColor=00F0D0)](https://deivid-milhomem.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-011a20?style=for-the-badge&logo=linkedin&logoColor=00F0D0)](https://www.linkedin.com/in/deivid-milhomem-ba7777135)
 [![GitHub](https://img.shields.io/badge/GitHub-011a20?style=for-the-badge&logo=github&logoColor=D4FF3A)](https://github.com/deividmilhomemdev)
 
